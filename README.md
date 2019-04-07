@@ -3,6 +3,6 @@
     <img alt="CakePHP" src="http://mazonos.com/forum/styles/elegance_green/theme/images/logo.png" />
   </a>
 </p>
-<p aligh="center">
+<p>
 Pacotes para distribuição <a href="http://mazonos.com">MazonOS</a>
 </p>
