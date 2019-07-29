@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://mazonos.com" target="MazonOS" >
-    <img alt="CakePHP" src="http://mazonos.com/forum/styles/elegance_green/theme/images/logo.png" />
+    <img alt="MazonOS" src="http://mazonos.com/forum/styles/elegance_green/theme/images/logo.png" />
   </a>
 </p>
 <p>
